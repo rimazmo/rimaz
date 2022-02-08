@@ -2,7 +2,7 @@ title: rimaz
 email: rimazmo18@gmail.com
 description: "this this blog to document my journey."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rimaz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rimaz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: 
 github:  rimazmo
 mail: rimazmo18@gmail.com
